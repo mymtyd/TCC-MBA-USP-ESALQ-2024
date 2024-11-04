@@ -39,4 +39,4 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 ## Autores
 
-- Mayumi Toyoda (mayumiptoyoda@gmail.com)
+Mayumi Toyoda (mayumiptoyoda@gmail.com)
