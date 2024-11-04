@@ -31,7 +31,7 @@ Este projeto requer os seguintes pacotes R:
 
 ## Contribuição
 
-Contribuições para a melhoria dos scripts ou técnicas de análise são bem-vindas. Por favor, faça um fork deste repositório, faça suas alterações e envie um pull request para revisão.
+Contribuições para a melhoria dos scripts ou técnicas de análise são bem-vindas! Por favor, faça um fork deste repositório, faça suas alterações e envie um pull request para revisão.
 
 ## Licença
 
